@@ -1,1 +1,1 @@
-# testrepo for testing repo and learning github stuff
+# a personal repository for showcasing code
