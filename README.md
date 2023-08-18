@@ -1,1 +1,1 @@
-# a personal repository for showcasing code
+repository for bitcoin payment system project
