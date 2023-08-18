@@ -1,0 +1,10 @@
+{
+  "require": {
+    "firebase/php-jwt": "^5.4",
+    "bitcoin-php/bitcoin-ecdsa": ">=1.3",
+    "mdanter/ecc": "^0.5.0",
+    "denpa/php-bitcoinrpc": "^2.2",
+    "phpseclib/phpseclib": "~3.0",
+    "furqansiddiqui/ethereum-php": "dev-master"
+  }
+}
